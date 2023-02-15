@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+
+    <!-- Strings a usar en activity_main.xml -->
+    <string name="ficha_uno">Ficha Uno</string>
+    <string name="ficha_dos">Ficha Dos</string>
+    <string name="ficha_tres">Ficha Tres</string>
+    <string name="ficha_cuatro">Ficha Cuatro</string>
+    <string name="ficha_cinco">Ficha Cinco</string>
+    <string name="ficha_seis">Ficha Seis</string>
+    <string name="ficha_siete">Ficha Siete</string>
+    <string name="ficha_ocho">Ficha Ocho</string>
+    <string name="ficha_nueve">Ficha Nueve</string>
+
+    <string name="txtViewGanador_Text">El jugador ha ganado</string>
+    <string name="btnJugar_Text">Nuevo Juego</string>
+</resources>
